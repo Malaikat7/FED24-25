@@ -44,7 +44,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Media 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="weversemedia.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
@@ -57,6 +57,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+
+  - Ik heb eerst de screenreader voice naar Engels moeten instellen, omdat het niet automatisch met een Nederlandse stem gegenereerd werd naar Engels.
+  - De context van de promotionele banners op de Home-pagina werd niet benoemd door de screenreader.
+  - De foto's voor merchandise en profielen van members hadden geen alt tekst. 
 
 </details>
 
