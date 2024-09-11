@@ -100,7 +100,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Juiste tags       Svg omzetten?
   gebruikt? Beter   Hoe continu video
   in html of css?   afspelen?
-                
+  Meer headers?             
 
 
   ### Verslag van meeting
