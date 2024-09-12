@@ -97,19 +97,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   | Audrey         | Kaylee          | Sharon    | Jelle        |
   | ---            | ---             | ---       | ---      
-  Juiste tags gebruikt? Beter in html of css? Meer headers?     
-  Svg omzetten? Hoe continu video afspelen?
+  |Juiste tags gebruikt? Beter in html of css? Meer headers?|  Svg omzetten? Hoe continu video afspelen?           |No horizontal scroll|              |
+  |                |                 |           |              |
+  |                |                 |           |              | 
+       
+
      
             
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  
+Feedback 1ste voortgangsgesprek:
+HTML/Code: Nette semantische code en ook al goed ingesprongen. Mooi dat je header al werkt, je zou eventueel alles in 1 nav kunnen zetten. Mooie oplossing voor de H1, doordat je deze op display none zet!
 
 </details>
 
