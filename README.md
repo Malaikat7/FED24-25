@@ -97,10 +97,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   | Audrey         | Kaylee          | Sharon    | Jelle        |
   | ---            | ---             | ---       | ---      
-  Juiste tags       Svg omzetten?
-  gebruikt? Beter   Hoe continu video
-  in html of css?   afspelen?
-  Meer headers?             
+  Juiste tags gebruikt? Beter in html of css? Meer headers?     
+  Svg omzetten? Hoe continu video afspelen?
+     
+            
 
 
   ### Verslag van meeting
