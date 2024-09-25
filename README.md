@@ -123,25 +123,24 @@ HTML/Code: Nette semantische code en ook al goed ingesprongen. Mooi dat je heade
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+  Ik ben verder gekomen met de html en css, alleen heb ik nog struggles met bepaalde details zoals het uitwerken van de carousel. 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | Audrey     | student 2          | student 3    | student 4        |
+  | Audrey     | student 2          | student 3    |       |
   | ---            | ---                | ---          | ---              |
-  | Teveel classes?  | Class gebruik            | surface plane   | en dan ik dat    |
+  | Teveel classes?  | Class gebruik            | surface plane   |
   | Carousel? | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | div gebruik?           | ...                | ...          | ...              |
+  | div gebruik?           | ...                | ...          |
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
+  - Carousel hulpmiddel gekregen via Teams. 
+  - Geen px gebruiken.
+  - Comments toevoegen in CSS.
 - ...
 
 </details>
@@ -170,17 +169,17 @@ HTML/Code: Nette semantische code en ook al goed ingesprongen. Mooi dat je heade
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Vanwege omstandigheden heb ik niet zover kunnen komen zoals ik zou willen, en valt er nog wat te doen. De website ziet er wel gewoon goed uit, alleen vraag ik me af of het goed genoeg is kwa ruimtegebruik. 
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | Audrey      | Kaylee         | Jelle    | Sharon        |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | animaties  | en dit             | en ik dit    | en dan ik dat    |
+  | ruimtegebruik? | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | mag strongtag html?           | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
