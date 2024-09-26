@@ -177,9 +177,9 @@ HTML/Code: Nette semantische code en ook al goed ingesprongen. Mooi dat je heade
 
   | Audrey      | Kaylee         | Bibi    |        |
   | ---            | ---                | ---          | ---              |
-  | animaties  |live servers            | javascript   | en dan ik dat    |
-  | ruimtegebruik? | | nog een punt | dit wil ik zeker |
-  | mag strongtag html?           |      | ...          | ...              |
+  | animaties  |live servers            | javascript   |     |
+  | ruimtegebruik? | | |  |
+  | mag strongtag html?           |      |         |              |
 
 
   ### Verslag van meeting
