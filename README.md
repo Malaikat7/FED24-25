@@ -175,9 +175,9 @@ HTML/Code: Nette semantische code en ook al goed ingesprongen. Mooi dat je heade
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | Audrey      | Kaylee         | Jelle    | Sharon        |
+  | Audrey      | Kaylee         | Bibi    |        |
   | ---            | ---                | ---          | ---              |
-  | animaties  |live servers            | en ik dit    | en dan ik dat    |
+  | animaties  |live servers            | javascript   | en dan ik dat    |
   | ruimtegebruik? | | nog een punt | dit wil ik zeker |
   | mag strongtag html?           |      | ...          | ...              |
 
