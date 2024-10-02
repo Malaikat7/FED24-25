@@ -233,7 +233,7 @@ Wanneer scrollen wordt image hoger
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
+  1. chatgpt.com 
   2. bron 2
   3. ...
 
