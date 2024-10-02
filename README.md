@@ -185,10 +185,13 @@ HTML/Code: Nette semantische code en ook al goed ingesprongen. Mooi dat je heade
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Ideeën voor surface plane: Uitklapbare nav
+Geluid wanneer je op knop drukt
+Custom properties
+Preverse reduced motion
+Wanneer scrollen wordt image hoger
+
+- Na de meeting ben ik ook gaan twijfelen over het kiezen van surface plane of toch responsiveness, aangezien ik nog niet eraan was begonnen en responsiveness me eigenlijk meer aanspreekt. 
 
 </details>
 
