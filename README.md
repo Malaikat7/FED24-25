@@ -234,7 +234,7 @@ Wanneer scrollen wordt image hoger
   Nb. Vermeld de bronnen ook in je code.
 
   1. chatgpt.com 
-  2. bron 2
+  2. w3schools.com (Voor extra surface plane code zoals darkmode)
   3. ...
 
 </details>
